@@ -2,6 +2,10 @@
 
 Project ini adalah tugas seleksi Calon Tim Web Developer di **PT Afbe Cahaya Kreatif**. Landing page ini dirancang dengan standar profesional menggunakan pendekatan **Ultra-Minimalist Luxury** untuk menonjolkan kerapihan dan fungsionalitas.
 
+## 🔗 Live Demo
+
+**[https://rifallll.github.io/afbenesia-dm05/](https://rifallll.github.io/afbenesia-dm05/)**
+
 ## 🚀 Fitur Utama (Requirement + Plus Points)
 
 - **Informasi Program Lengkap**: Detail pendaftaran, penyelenggara (Afbenesia), dan deskripsi program.
